@@ -5,7 +5,9 @@ __________________
 
 ### Contacto: 
 Daniel Cifuentes Grueso 
+
 Politólogo - Universidad del Rosario 
+
 Candidato a Magister en Economía de las Políticas Públicas - Universidad del Rosario
 
 daniel.cifuentes@urosario.edu.co
