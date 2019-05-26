@@ -1,0 +1,1209 @@
+,ID,Tema
+0,1,Seguridad Social y salud
+1,1,Bienestar y pobreza
+2,2,Rama Legislativa
+3,2,Asuntos administrativos
+4,3,"Comunicaciones, medios y tecnologías de la información"
+5,3,"Comercio, industria y turismo"
+6,4,"Seguridad, defensa y fuerza pública"
+7,4,Bienestar y pobreza
+8,5,Minas y energía
+9,5,Medio Ambiente
+10,6,"Educación, cultura, ciencia y tecnología"
+11,6,Corrupción
+12,7,"Seguridad, defensa y fuerza pública"
+13,7,Justicia
+14,8,"Celebraciones, honores y monumentos"
+15,9,Minas y energía
+16,9,Economía
+17,10,Ordenamiento Territorial
+18,10,Administración pública
+19,11,Ordenamiento Territorial
+20,11,Administración pública
+21,12,"Educación, cultura, ciencia y tecnología"
+22,12,Administración pública
+23,13,Rama Legislativa
+24,13,Familia
+25,14,Infraestructura
+26,14,Tránsito y transporte
+27,15,Vivienda
+28,15,Administración pública
+29,16,Laboral
+30,16,Bienestar y pobreza
+31,17,"Seguridad, defensa y fuerza pública"
+32,17,Rama Legislativa
+33,18,"Educación, cultura, ciencia y tecnología"
+34,18,Administración pública
+35,19,"Celebraciones, honores y monumentos"
+36,20,"Comercio, industria y turismo"
+37,20,Agropecuario y agrícola
+38,21,Seguridad Social y salud
+39,21,Administración pública
+40,22,"Educación, cultura, ciencia y tecnología"
+41,22,Administración pública
+42,23,"Celebraciones, honores y monumentos"
+43,24,Conflicto armado
+44,24,Derechos Humanos y DIH
+45,25,"Educación, cultura, ciencia y tecnología"
+46,25,Bienestar y pobreza
+47,26,Notariado y registro
+48,26,Administración pública
+49,27,"Educación, cultura, ciencia y tecnología"
+50,27,Bienestar y pobreza
+51,28,Notariado y registro
+52,28,Bienestar y pobreza
+53,29,Tránsito y transporte
+54,29,Administración pública
+55,30,Participación ciudadana
+56,30,Impuestos
+57,31,"Comercio, industria y turismo"
+58,31,Economía
+59,32,Participación ciudadana
+60,32,Asuntos administrativos
+61,33,Economía
+62,33,Minas y energía
+63,34,Justicia
+64,34,Derechos Fundamentales
+65,35,Tránsito y transporte
+66,35,Administración pública
+67,36,Rama Judicial
+68,36,Justicia
+69,37,Derechos Fundamentales
+70,37,Bienestar y pobreza
+71,38,Bienestar y pobreza
+72,38,Economía
+73,39,Seguridad Social y salud
+74,39,Laboral
+75,40,Tránsito y transporte
+76,40,Economía
+77,41,Política Internacional
+78,41,Administración pública
+79,42,Rama Ejecutiva
+80,42,Administración pública
+81,43,Infraestructura
+82,43,Administración pública
+83,44,Organismos de Control y Ministerio público
+84,44,Administración pública
+85,45,"Seguridad, defensa y fuerza pública"
+86,45,Laboral
+87,46,Ordenamiento Territorial
+88,46,Administración pública
+89,47,Economía
+90,47,Bienestar y pobreza
+91,48,Justicia
+92,48,"Seguridad, defensa y fuerza pública"
+93,49,Justicia
+94,49,Administración pública
+95,50,Bienestar y pobreza
+96,50,Administración pública
+97,51,Justicia
+98,51,Familia
+99,52,Laboral
+100,52,Bienestar y pobreza
+101,53,Economía
+102,53,Bienestar y pobreza
+103,54,Justicia
+104,54,Familia
+105,55,Agropecuario y agrícola
+106,55,"Comunicaciones, medios y tecnologías de la información"
+107,56,Economía
+108,56,Administración pública
+109,57,Bienestar y pobreza
+110,57,Minas y energía
+111,58,Ordenamiento Territorial
+112,58,Administración pública
+113,59,"Celebraciones, honores y monumentos"
+114,60,Impuestos
+115,60,Ordenamiento Territorial
+116,61,Presupuesto
+117,61,Economía
+118,62,Economía
+119,62,Ordenamiento Territorial
+120,63,Rama Legislativa
+121,63,Administración pública
+122,64,Ordenamiento Territorial
+123,64,Administración pública
+124,65,Vivienda
+125,65,Administración pública
+126,66,"Comercio, industria y turismo"
+127,66,Vivienda
+128,67,"Celebraciones, honores y monumentos"
+129,68,Ordenamiento Territorial
+130,68,Administración pública
+131,69,Ordenamiento Territorial
+132,69,Economía
+133,70,Minas y energía
+134,70,Medio Ambiente
+135,71,Medio Ambiente
+136,71,Agropecuario y agrícola
+137,72,Impuestos
+138,72,Ordenamiento Territorial
+139,73,Medio Ambiente
+140,73,Impuestos
+141,74,"Celebraciones, honores y monumentos"
+142,75,Derechos Fundamentales
+143,75,Administración pública
+144,76,Economía
+145,76,Participación ciudadana
+146,77,Economía
+147,77,Familia
+148,78,"Celebraciones, honores y monumentos"
+149,79,Profesiones
+150,79,Laboral
+151,80,Ordenamiento Territorial
+152,80,Administración pública
+153,81,"Seguridad, defensa y fuerza pública"
+154,81,Administración pública
+155,82,Tránsito y transporte
+156,82,Administración pública
+157,83,Administración pública
+158,83,Medio Ambiente
+159,84,Agropecuario y agrícola
+160,84,Economía
+161,85,"Comercio, industria y turismo"
+162,85,Familia
+163,86,Seguridad Social y salud
+164,86,Administración pública
+165,87,Vivienda
+166,87,Organismos de Control y Ministerio público
+167,88,Recreación y deporte
+168,88,Administración pública
+169,89,Economía
+170,89,Laboral
+171,90,Servicios Públicos
+172,90,Laboral
+173,91,Tránsito y transporte
+174,91,Administración pública
+175,92,Bienestar y pobreza
+176,92,Administración pública
+177,93,"Celebraciones, honores y monumentos"
+178,94,Administración pública
+179,94,Vivienda
+180,95,Política Internacional
+181,95,Administración pública
+182,96,"Seguridad, defensa y fuerza pública"
+183,96,Administración pública
+184,97,Seguridad Social y salud
+185,97,Administración pública
+186,98,"Comercio, industria y turismo"
+187,98,Administración pública
+188,99,"Educación, cultura, ciencia y tecnología"
+189,99,Administración pública
+190,100,Ordenamiento Territorial
+191,100,Administración pública
+192,101,"Celebraciones, honores y monumentos"
+193,102,Profesiones
+194,102,Asuntos administrativos
+195,103,Plan Nacional de Desarrollo
+196,103,Economía
+197,104,Seguridad Social y salud
+198,104,Administración pública
+199,105,Participación ciudadana
+200,105,Partidos y movimientos
+201,106,Justicia
+202,106,Corrupción
+203,107,Tránsito y transporte
+204,107,Asuntos administrativos
+205,108,"Educación, cultura, ciencia y tecnología"
+206,108,Administración pública
+207,109,"Comercio, industria y turismo"
+208,109,Asuntos administrativos
+209,110,"Comercio, industria y turismo"
+210,110,Administración pública
+211,111,Vivienda
+212,111,Administración pública
+213,112,Corrupción
+214,112,Administración pública
+215,113,Tránsito y transporte
+216,113,Administración pública
+217,114,Agropecuario y agrícola
+218,114,Justicia
+219,115,"Celebraciones, honores y monumentos"
+220,116,Familia
+221,116,Bienestar y pobreza
+222,117,"Celebraciones, honores y monumentos"
+223,118,Agropecuario y agrícola
+224,118,Administración pública
+225,119,Tránsito y transporte
+226,119,Economía
+227,120,"Comunicaciones, medios y tecnologías de la información"
+228,120,Economía
+229,121,Minas y energía
+230,121,Administración pública
+231,122,Profesiones
+232,122,Asuntos administrativos
+233,123,"Educación, cultura, ciencia y tecnología"
+234,123,Bienestar y pobreza
+235,124,Seguridad Social y salud
+236,124,Laboral
+237,125,Minas y energía
+238,125,Administración pública
+239,126,Organización Electoral y elecciones
+240,126,Administración pública
+241,127,Seguridad Social y salud
+242,127,Laboral
+243,128,"Educación, cultura, ciencia y tecnología"
+244,128,Economía
+245,129,Minorías étnicas y sexuales
+246,129,"Comercio, industria y turismo"
+247,130,Corrupción
+248,130,Administración pública
+249,131,"Celebraciones, honores y monumentos"
+250,132,"Celebraciones, honores y monumentos"
+251,133,"Comercio, industria y turismo"
+252,133,Administración pública
+253,134,Medio Ambiente
+254,134,Minas y energía
+255,135,Seguridad Social y salud
+256,135,Administración pública
+257,136,Recreación y deporte
+258,136,Asuntos administrativos
+259,137,Seguridad Social y salud
+260,137,Administración pública
+261,138,"Celebraciones, honores y monumentos"
+262,139,"Comercio, industria y turismo"
+263,139,Medio Ambiente
+264,140,Tránsito y transporte
+265,140,Administración pública
+266,141,"Celebraciones, honores y monumentos"
+267,142,Notariado y registro
+268,142,Familia
+269,143,"Educación, cultura, ciencia y tecnología"
+270,143,Economía
+271,144,"Celebraciones, honores y monumentos"
+272,145,Estampillas
+273,145,Administración pública
+274,146,Ordenamiento Territorial
+275,146,Administración pública
+276,147,Familia
+277,147,Bienestar y pobreza
+278,148,Ordenamiento Territorial
+279,148,Administración pública
+280,149,"Celebraciones, honores y monumentos"
+281,150,Ordenamiento Territorial
+282,150,Administración pública
+283,151,Familia
+284,151,Bienestar y pobreza
+285,152,Familia
+286,152,Administración pública
+287,153,"Comercio, industria y turismo"
+288,153,"Seguridad, defensa y fuerza pública"
+289,154,Política Internacional
+290,154,Administración pública
+291,155,"Educación, cultura, ciencia y tecnología"
+292,155,Economía
+293,156,"Seguridad, defensa y fuerza pública"
+294,157,Medio Ambiente
+295,157,Administración pública
+296,158,Administración pública
+297,158,Recreación y deporte
+298,159,Servicios Públicos
+299,159,Administración pública
+300,160,"Comercio, industria y turismo"
+301,160,Economía
+302,161,Medio Ambiente
+303,161,Servicios Públicos
+304,162,"Seguridad, defensa y fuerza pública"
+305,162,Bienestar y pobreza
+306,163,Tránsito y transporte
+307,163,Asuntos administrativos
+308,164,"Celebraciones, honores y monumentos"
+309,165,Administración pública
+310,165,Economía
+311,166,Seguridad Social y salud
+312,166,Economía
+313,167,"Educación, cultura, ciencia y tecnología"
+314,167,Economía
+315,168,Medio Ambiente
+316,168,Administración pública
+317,169,"Celebraciones, honores y monumentos"
+318,170,Recreación y deporte
+319,170,Bienestar y pobreza
+320,171,Presupuesto
+321,171,Administración pública
+322,172,Economía
+323,172,Bienestar y pobreza
+324,173,Administración pública
+325,173,Medio Ambiente
+326,174,Economía
+327,174,Ordenamiento Territorial
+328,175,Laboral
+329,175,Familia
+330,176,Rama Legislativa
+331,176,Administración pública
+332,177,Ordenamiento Territorial
+333,177,Agropecuario y agrícola
+334,178,Familia
+335,178,Bienestar y pobreza
+336,179,Seguridad Social y salud
+337,179,Administración pública
+338,180,Justicia
+339,180,Administración pública
+340,181,Administración pública
+341,181,Medio Ambiente
+342,182,Justicia
+343,182,Administración pública
+344,183,Vivienda
+345,183,Infraestructura
+346,184,Organización Electoral y elecciones
+347,184,Administración pública
+348,185,Rama Judicial
+349,185,Administración pública
+350,186,"Comunicaciones, medios y tecnologías de la información"
+351,186,Economía
+352,187,Impuestos
+353,187,Economía
+354,188,Agropecuario y agrícola
+355,188,Tránsito y transporte
+356,189,Laboral
+357,189,Bienestar y pobreza
+358,190,"Comunicaciones, medios y tecnologías de la información"
+359,190,Derechos Fundamentales
+360,191,Corrupción
+361,191,Impuestos
+362,192,Profesiones
+363,192,Asuntos administrativos
+364,193,"Celebraciones, honores y monumentos"
+365,194,Organización Electoral y elecciones
+366,194,Administración pública
+367,195,Administración pública
+368,195,Impuestos
+369,196,"Celebraciones, honores y monumentos"
+370,197,Organización Electoral y elecciones
+371,197,Partidos y movimientos
+372,198,Rama Ejecutiva
+373,198,Justicia
+374,199,Rama Legislativa
+375,199,Administración pública
+376,200,Servicios Públicos
+377,200,Administración pública
+378,201,"Educación, cultura, ciencia y tecnología"
+379,201,Servicios Públicos
+380,202,"Educación, cultura, ciencia y tecnología"
+381,202,Bienestar y pobreza
+382,203,"Celebraciones, honores y monumentos"
+383,204,Derechos Fundamentales
+384,204,Familia
+385,205,Laboral
+386,205,Familia
+387,206,Justicia
+388,206,Bienestar y pobreza
+389,207,Justicia
+390,207,Familia
+391,208,Participación ciudadana
+392,208,Administración pública
+393,209,Notariado y registro
+394,209,Vivienda
+395,210,Infraestructura
+396,210,Tránsito y transporte
+397,211,Servicios Públicos
+398,211,Bienestar y pobreza
+399,212,Recreación y deporte
+400,212,Administración pública
+401,213,"Educación, cultura, ciencia y tecnología"
+402,213,Administración pública
+403,214,Economía
+404,214,Recreación y deporte
+405,215,Plan Nacional de Desarrollo
+406,215,Participación ciudadana
+407,216,Impuestos
+408,216,Economía
+409,217,"Celebraciones, honores y monumentos"
+410,217,Economía
+411,218,Medio Ambiente
+412,218,Economía
+413,219,"Educación, cultura, ciencia y tecnología"
+414,219,Presupuesto
+415,220,"Educación, cultura, ciencia y tecnología"
+416,220,Bienestar y pobreza
+417,221,Seguridad Social y salud
+418,221,"Comercio, industria y turismo"
+419,222,Participación ciudadana
+420,222,Asuntos administrativos
+421,223,Organización Electoral y elecciones
+422,223,Participación ciudadana
+423,224,Medio Ambiente
+424,224,Administración pública
+425,225,Estampillas
+426,225,Seguridad Social y salud
+427,226,"Educación, cultura, ciencia y tecnología"
+428,226,Presupuesto
+429,227,"Comercio, industria y turismo"
+430,227,"Seguridad, defensa y fuerza pública"
+431,228,Rama Legislativa
+432,228,Administración pública
+433,229,"Comercio, industria y turismo"
+434,229,Economía
+435,230,Tránsito y transporte
+436,230,Economía
+437,231,Administración pública
+438,231,Asuntos administrativos
+439,232,Servicios Públicos
+440,232,Vivienda
+441,233,"Educación, cultura, ciencia y tecnología"
+442,233,Economía
+443,234,"Comunicaciones, medios y tecnologías de la información"
+444,234,Rama Legislativa
+445,235,"Educación, cultura, ciencia y tecnología"
+446,235,Minorías étnicas y sexuales
+447,236,Participación ciudadana
+448,236,Administración pública
+449,237,"Comunicaciones, medios y tecnologías de la información"
+450,237,Administración pública
+451,238,Rama Legislativa
+452,238,Implementación paz
+453,239,Ordenamiento Territorial
+454,239,Administración pública
+455,240,Partidos y movimientos
+456,240,Administración pública
+457,241,Impuestos
+458,241,Familia
+459,242,Organización Electoral y elecciones
+460,242,Participación ciudadana
+461,243,Seguridad Social y salud
+462,243,Bienestar y pobreza
+463,244,"Celebraciones, honores y monumentos"
+464,245,"Seguridad, defensa y fuerza pública"
+465,245,Bienestar y pobreza
+466,246,Participación ciudadana
+467,246,Administración pública
+468,247,Administración pública
+469,247,Medio Ambiente
+470,248,"Educación, cultura, ciencia y tecnología"
+471,248,"Comercio, industria y turismo"
+472,249,Infraestructura
+473,249,Medio Ambiente
+474,250,Ordenamiento Territorial
+475,250,Administración pública
+476,251,Conflicto armado
+477,251,Administración pública
+478,252,"Comercio, industria y turismo"
+479,252,Profesiones
+480,253,Ordenamiento Territorial
+481,253,Administración pública
+482,254,"Educación, cultura, ciencia y tecnología"
+483,254,Corrupción
+484,255,Administración pública
+485,255,Tránsito y transporte
+486,256,Rama Legislativa
+487,256,Corrupción
+488,257,Profesiones
+489,257,Administración pública
+490,258,"Educación, cultura, ciencia y tecnología"
+491,258,Bienestar y pobreza
+492,259,Economía
+493,259,Administración pública
+494,260,"Comercio, industria y turismo"
+495,260,Economía
+496,261,Medio Ambiente
+497,261,Administración pública
+498,262,Economía
+499,262,Bienestar y pobreza
+500,263,Justicia
+501,263,Bienestar y pobreza
+502,264,Implementación paz
+503,264,Justicia
+504,265,"Educación, cultura, ciencia y tecnología"
+505,265,Administración pública
+506,266,Agropecuario y agrícola
+507,266,Administración pública
+508,267,"Educación, cultura, ciencia y tecnología"
+509,267,Bienestar y pobreza
+510,268,Rama Judicial
+511,268,Rama Legislativa
+512,269,Economía
+513,269,Administración pública
+514,270,"Celebraciones, honores y monumentos"
+515,271,Seguridad Social y salud
+516,271,Bienestar y pobreza
+517,272,Vivienda
+518,272,Participación ciudadana
+519,273,"Comercio, industria y turismo"
+520,273,Minas y energía
+521,274,Agropecuario y agrícola
+522,274,Administración pública
+523,275,"Comercio, industria y turismo"
+524,275,Medio Ambiente
+525,276,Profesiones
+526,276,"Comercio, industria y turismo"
+527,277,Implementación paz
+528,277,Justicia
+529,278,Economía
+530,278,Minas y energía
+531,279,Agropecuario y agrícola
+532,279,Derechos Fundamentales
+533,280,"Educación, cultura, ciencia y tecnología"
+534,280,Bienestar y pobreza
+535,281,"Celebraciones, honores y monumentos"
+536,282,"Comunicaciones, medios y tecnologías de la información"
+537,282,Administración pública
+538,283,Administración pública
+539,283,Familia
+540,284,Laboral
+541,284,Seguridad Social y salud
+542,285,Laboral
+543,285,Seguridad Social y salud
+544,286,"Seguridad, defensa y fuerza pública"
+545,286,Administración pública
+546,287,Servicios Públicos
+547,287,Administración pública
+548,288,"Comunicaciones, medios y tecnologías de la información"
+549,288,Administración pública
+550,289,Administración pública
+551,289,Corrupción
+552,290,Presupuesto
+553,290,Participación ciudadana
+554,291,Rama Legislativa
+555,291,Corrupción
+556,292,Rama Legislativa
+557,292,Corrupción
+558,293,Economía
+559,293,"Comercio, industria y turismo"
+560,294,Rama Legislativa
+561,294,"Comercio, industria y turismo"
+562,295,Corrupción
+563,295,Administración pública
+564,296,Justicia
+565,296,Corrupción
+566,297,Rama Legislativa
+567,297,Administración pública
+568,298,Rama Legislativa
+569,298,Administración pública
+570,299,"Educación, cultura, ciencia y tecnología"
+571,299,Bienestar y pobreza
+572,300,Agropecuario y agrícola
+573,300,Administración pública
+574,301,Rama Legislativa
+575,301,Justicia
+576,302,Seguridad Social y salud
+577,302,Impuestos
+578,303,"Educación, cultura, ciencia y tecnología"
+579,303,Seguridad Social y salud
+580,304,Rama Judicial
+581,304,Justicia
+582,305,Derechos Fundamentales
+583,305,"Comercio, industria y turismo"
+584,306,Profesiones
+585,306,Asuntos administrativos
+586,307,"Celebraciones, honores y monumentos"
+587,308,Infraestructura
+588,308,Administración pública
+589,309,"Comunicaciones, medios y tecnologías de la información"
+590,309,Administración pública
+591,310,Bienestar y pobreza
+592,310,Administración pública
+593,311,Laboral
+594,311,Familia
+595,312,Laboral
+596,312,"Seguridad, defensa y fuerza pública"
+597,313,Justicia
+598,313,Familia
+599,314,Laboral
+600,314,Familia
+601,315,Medio Ambiente
+602,315,Administración pública
+603,316,Justicia
+604,316,Rama Judicial
+605,317,Justicia
+606,317,Familia
+607,318,Seguridad Social y salud
+608,318,Bienestar y pobreza
+609,319,"Educación, cultura, ciencia y tecnología"
+610,319,Asuntos administrativos
+611,320,Economía
+612,320,Bienestar y pobreza
+613,321,Economía
+614,321,"Comercio, industria y turismo"
+615,322,Tránsito y transporte
+616,322,Administración pública
+617,323,Participación ciudadana
+618,323,Administración pública
+619,324,Conflicto armado
+620,324,Familia
+621,325,Laboral
+622,325,Familia
+623,326,"Educación, cultura, ciencia y tecnología"
+624,326,Bienestar y pobreza
+625,327,Vivienda
+626,327,Bienestar y pobreza
+627,328,Derechos Fundamentales
+628,328,Infraestructura
+629,329,Seguridad Social y salud
+630,329,Bienestar y pobreza
+631,330,Presupuesto
+632,330,Ordenamiento Territorial
+633,331,"Educación, cultura, ciencia y tecnología"
+634,331,Economía
+635,332,Estampillas
+636,332,"Educación, cultura, ciencia y tecnología"
+637,333,Infraestructura
+638,333,Economía
+639,334,Minas y energía
+640,334,Bienestar y pobreza
+641,335,Agropecuario y agrícola
+642,335,Administración pública
+643,336,Implementación paz
+644,336,Agropecuario y agrícola
+645,337,Minas y energía
+646,337,"Comercio, industria y turismo"
+647,338,Minas y energía
+648,338,Ordenamiento Territorial
+649,339,"Celebraciones, honores y monumentos"
+650,340,Tránsito y transporte
+651,340,Economía
+652,341,"Educación, cultura, ciencia y tecnología"
+653,341,Bienestar y pobreza
+654,342,Justicia
+655,342,Laboral
+656,343,Partidos y movimientos
+657,343,Organización Electoral y elecciones
+658,344,Tránsito y transporte
+659,344,Economía
+660,345,Corrupción
+661,345,Administración pública
+662,346,Justicia
+663,346,"Seguridad, defensa y fuerza pública"
+664,347,"Comunicaciones, medios y tecnologías de la información"
+665,347,"Educación, cultura, ciencia y tecnología"
+666,348,"Educación, cultura, ciencia y tecnología"
+667,348,Bienestar y pobreza
+668,349,Implementación paz
+669,349,Partidos y movimientos
+670,350,Partidos y movimientos
+671,350,Mujer
+672,351,Impuestos
+673,351,"Comercio, industria y turismo"
+674,352,Economía
+675,352,Minas y energía
+676,353,Implementación paz
+677,353,Familia
+678,354,Organización Electoral y elecciones
+679,354,Rama Ejecutiva
+680,355,"Educación, cultura, ciencia y tecnología"
+681,355,Administración pública
+682,356,"Comercio, industria y turismo"
+683,356,Medio Ambiente
+684,357,Organismos de Control y Ministerio público
+685,357,Ordenamiento Territorial
+686,358,"Comercio, industria y turismo"
+687,358,Agropecuario y agrícola
+688,359,"Educación, cultura, ciencia y tecnología"
+689,359,Bienestar y pobreza
+690,360,Ordenamiento Territorial
+691,360,Administración pública
+692,361,Economía
+693,361,Familia
+694,362,Ordenamiento Territorial
+695,362,Rama Legislativa
+696,363,Agropecuario y agrícola
+697,363,"Comercio, industria y turismo"
+698,364,"Comercio, industria y turismo"
+699,364,Medio Ambiente
+700,365,Corrupción
+701,365,Administración pública
+702,366,Corrupción
+703,366,Administración pública
+704,367,Seguridad Social y salud
+705,367,"Educación, cultura, ciencia y tecnología"
+706,368,Rama Judicial
+707,368,Justicia
+708,369,Justicia
+709,369,Rama Judicial
+710,370,Tránsito y transporte
+711,370,Administración pública
+712,371,Seguridad Social y salud
+713,371,Administración pública
+714,372,Economía
+715,372,Administración pública
+716,373,Laboral
+717,373,Familia
+718,374,Agropecuario y agrícola
+719,374,Administración pública
+720,375,"Seguridad, defensa y fuerza pública"
+721,375,Administración pública
+722,376,Agropecuario y agrícola
+723,376,Economía
+724,377,Estampillas
+725,377,"Educación, cultura, ciencia y tecnología"
+726,378,Laboral
+727,378,Asuntos administrativos
+728,379,Tránsito y transporte
+729,379,Administración pública
+730,380,"Educación, cultura, ciencia y tecnología"
+731,380,Bienestar y pobreza
+732,381,Agropecuario y agrícola
+733,381,Economía
+734,382,"Educación, cultura, ciencia y tecnología"
+735,382,Administración pública
+736,383,Minas y energía
+737,383,Medio Ambiente
+738,384,Servicios Públicos
+739,384,Medio Ambiente
+740,385,Profesiones
+741,385,Asuntos administrativos
+742,386,Rama Legislativa
+743,386,Economía
+744,387,Organización Electoral y elecciones
+745,387,Participación ciudadana
+746,388,Tránsito y transporte
+747,388,Administración pública
+748,389,Minas y energía
+749,389,Medio Ambiente
+750,390,Justicia
+751,390,Implementación paz
+752,391,Impuestos
+753,391,Minas y energía
+754,392,"Celebraciones, honores y monumentos"
+755,393,Tránsito y transporte
+756,393,Administración pública
+757,394,Justicia
+758,394,Familia
+759,395,Seguridad Social y salud
+760,395,Medio Ambiente
+761,396,Estampillas
+762,396,"Educación, cultura, ciencia y tecnología"
+763,397,Organización Electoral y elecciones
+764,397,Participación ciudadana
+765,398,Justicia
+766,398,Bienestar y pobreza
+767,399,Economía
+768,399,Bienestar y pobreza
+769,400,Economía
+770,400,Profesiones
+771,401,Familia
+772,401,Bienestar y pobreza
+773,402,Ordenamiento Territorial
+774,402,Administración pública
+775,403,"Educación, cultura, ciencia y tecnología"
+776,403,Economía
+777,404,Tránsito y transporte
+778,404,Administración pública
+779,405,Economía
+780,405,"Comunicaciones, medios y tecnologías de la información"
+781,406,Familia
+782,406,Bienestar y pobreza
+783,407,"Educación, cultura, ciencia y tecnología"
+784,407,"Comercio, industria y turismo"
+785,408,Economía
+786,408,Administración pública
+787,409,Rama Ejecutiva
+788,409,Administración pública
+789,410,"Educación, cultura, ciencia y tecnología"
+790,410,Familia
+791,411,"Celebraciones, honores y monumentos"
+792,412,"Celebraciones, honores y monumentos"
+793,413,"Celebraciones, honores y monumentos"
+794,414,Rama Legislativa
+795,414,Agropecuario y agrícola
+796,415,Servicios Públicos
+797,415,Administración pública
+798,416,Economía
+799,416,Impuestos
+800,417,"Celebraciones, honores y monumentos"
+801,418,Vivienda
+802,418,Bienestar y pobreza
+803,419,Impuestos
+804,419,Administración pública
+805,420,"Celebraciones, honores y monumentos"
+806,421,Seguridad Social y salud
+807,421,Economía
+808,422,Ordenamiento Territorial
+809,422,Administración pública
+810,423,Medio Ambiente
+811,423,Agropecuario y agrícola
+812,424,Economía
+813,424,"Comercio, industria y turismo"
+814,425,"Celebraciones, honores y monumentos"
+815,426,Implementación paz
+816,426,Justicia
+817,427,"Celebraciones, honores y monumentos"
+818,428,Medio Ambiente
+819,428,Administración pública
+820,429,Seguridad Social y salud
+821,429,Bienestar y pobreza
+822,430,Rama Legislativa
+823,430,Rama Judicial
+824,431,Tránsito y transporte
+825,431,Administración pública
+826,432,"Celebraciones, honores y monumentos"
+827,433,Rama Judicial
+828,433,Participación ciudadana
+829,434,Familia
+830,434,Administración pública
+831,435,Seguridad Social y salud
+832,435,Bienestar y pobreza
+833,436,"Educación, cultura, ciencia y tecnología"
+834,436,Economía
+835,437,Medio Ambiente
+836,437,"Comercio, industria y turismo"
+837,438,Impuestos
+838,438,Economía
+839,439,Administración pública
+840,439,Corrupción
+841,440,"Comunicaciones, medios y tecnologías de la información"
+842,440,Administración pública
+843,441,Medio Ambiente
+844,441,Administración pública
+845,442,Agropecuario y agrícola
+846,442,Administración pública
+847,443,"Seguridad, defensa y fuerza pública"
+848,443,Justicia
+849,444,Administración pública
+850,444,Asuntos administrativos
+851,445,"Educación, cultura, ciencia y tecnología"
+852,445,Administración pública
+853,446,"Educación, cultura, ciencia y tecnología"
+854,446,Laboral
+855,447,Mujer
+856,447,Vivienda
+857,448,Economía
+858,448,Ordenamiento Territorial
+859,449,Profesiones
+860,449,Asuntos administrativos
+861,450,Implementación paz
+862,450,Justicia
+863,451,Administración pública
+864,451,Asuntos administrativos
+865,452,Ordenamiento Territorial
+866,452,Economía
+867,453,Estampillas
+868,453,"Educación, cultura, ciencia y tecnología"
+869,454,Corrupción
+870,454,Administración pública
+871,455,Justicia
+872,455,Familia
+873,456,Agropecuario y agrícola
+874,456,Administración pública
+875,457,Agropecuario y agrícola
+876,457,Economía
+877,458,Economía
+878,458,Familia
+879,459,"Educación, cultura, ciencia y tecnología"
+880,459,Asuntos administrativos
+881,460,Ordenamiento Territorial
+882,460,Administración pública
+883,461,Participación ciudadana
+884,461,Organización Electoral y elecciones
+885,462,Rama Legislativa
+886,462,Partidos y movimientos
+887,463,Partidos y movimientos
+888,463,Organización Electoral y elecciones
+889,464,Corrupción
+890,464,Administración pública
+891,465,Rama Ejecutiva
+892,465,Recreación y deporte
+893,466,Minorías étnicas y sexuales
+894,466,Ordenamiento Territorial
+895,467,Política Internacional
+896,467,Economía
+897,468,Política Internacional
+898,468,Economía
+899,469,"Seguridad, defensa y fuerza pública"
+900,469,Justicia
+901,470,Tránsito y transporte
+902,470,Infraestructura
+903,471,"Educación, cultura, ciencia y tecnología"
+904,471,Rama Ejecutiva
+905,472,Organización Electoral y elecciones
+906,472,Ordenamiento Territorial
+907,473,Organismos de Control y Ministerio público
+908,473,Administración pública
+909,474,Justicia
+910,474,"Comunicaciones, medios y tecnologías de la información"
+911,475,Justicia
+912,475,Derechos Fundamentales
+913,476,"Comercio, industria y turismo"
+914,476,Bienestar y pobreza
+915,477,"Comercio, industria y turismo"
+916,477,Medio Ambiente
+917,478,"Comercio, industria y turismo"
+918,478,Administración pública
+919,479,Familia
+920,479,Seguridad Social y salud
+921,480,Minas y energía
+922,480,Medio Ambiente
+923,481,Partidos y movimientos
+924,481,Organización Electoral y elecciones
+925,482,Justicia
+926,482,Familia
+927,483,Seguridad Social y salud
+928,483,Administración pública
+929,484,Administración pública
+930,484,Asuntos administrativos
+931,485,Agropecuario y agrícola
+932,485,Administración pública
+933,486,"Celebraciones, honores y monumentos"
+934,487,Infraestructura
+935,487,Recreación y deporte
+936,488,"Comercio, industria y turismo"
+937,488,Bienestar y pobreza
+938,489,Implementación paz
+939,489,Justicia
+940,490,Rama Judicial
+941,490,Administración pública
+942,491,Seguridad Social y salud
+943,491,Asuntos administrativos
+944,492,"Comercio, industria y turismo"
+945,492,Administración pública
+946,493,Política Internacional
+947,493,Medio Ambiente
+948,494,Medio Ambiente
+949,494,Administración pública
+950,495,Economía
+951,495,Presupuesto
+952,496,Medio Ambiente
+953,496,Administración pública
+954,497,Minas y energía
+955,497,Medio Ambiente
+956,498,Agropecuario y agrícola
+957,498,Administración pública
+958,499,Medio Ambiente
+959,499,Economía
+960,500,"Seguridad, defensa y fuerza pública"
+961,500,Administración pública
+962,501,Laboral
+963,501,Mujer
+964,502,Medio Ambiente
+965,502,Administración pública
+966,503,Derechos Fundamentales
+967,503,Bienestar y pobreza
+968,504,Minas y energía
+969,504,Medio Ambiente
+970,505,Presupuesto
+971,505,Economía
+972,506,Justicia
+973,506,Familia
+974,507,Economía
+975,507,Administración pública
+976,508,Economía
+977,508,Bienestar y pobreza
+978,509,Economía
+979,509,Bienestar y pobreza
+980,510,Administración pública
+981,510,Agropecuario y agrícola
+982,511,Economía
+983,511,Administración pública
+984,512,Impuestos
+985,512,Vivienda
+986,513,Tránsito y transporte
+987,513,Asuntos administrativos
+988,514,Rama Ejecutiva
+989,514,Política Internacional
+990,515,Derechos Fundamentales
+991,515,Economía
+992,516,Agropecuario y agrícola
+993,516,Notariado y registro
+994,517,Economía
+995,517,Asuntos administrativos
+996,518,Partidos y movimientos
+997,518,Organización Electoral y elecciones
+998,519,Justicia
+999,519,Familia
+1000,520,Participación ciudadana
+1001,520,Medio Ambiente
+1002,521,Justicia
+1003,521,Familia
+1004,522,Minas y energía
+1005,522,Participación ciudadana
+1006,523,Rama Ejecutiva
+1007,523,Organización Electoral y elecciones
+1008,524,Profesiones
+1009,524,Laboral
+1010,525,Familia
+1011,525,Notariado y registro
+1012,526,Economía
+1013,526,"Comunicaciones, medios y tecnologías de la información"
+1014,527,Ordenamiento Territorial
+1015,527,Economía
+1016,528,Medio Ambiente
+1017,528,Minas y energía
+1018,529,Laboral
+1019,529,Bienestar y pobreza
+1020,530,Ordenamiento Territorial
+1021,530,Economía
+1022,531,Profesiones
+1023,531,Laboral
+1024,532,Derechos Fundamentales
+1025,532,Medio Ambiente
+1026,533,"Seguridad, defensa y fuerza pública"
+1027,533,Bienestar y pobreza
+1028,534,Minas y energía
+1029,534,Administración pública
+1030,535,Laboral
+1031,535,Familia
+1032,536,"Comercio, industria y turismo"
+1033,536,Impuestos
+1034,537,"Seguridad, defensa y fuerza pública"
+1035,537,Bienestar y pobreza
+1036,538,Familia
+1037,538,Laboral
+1038,539,Agropecuario y agrícola
+1039,539,Medio Ambiente
+1040,540,Familia
+1041,540,Laboral
+1042,541,Mujer
+1043,541,Familia
+1044,542,Seguridad Social y salud
+1045,542,Administración pública
+1046,543,Familia
+1047,543,Bienestar y pobreza
+1048,544,Familia
+1049,544,Economía
+1050,545,"Comunicaciones, medios y tecnologías de la información"
+1051,545,Asuntos administrativos
+1052,546,Familia
+1053,546,Bienestar y pobreza
+1054,547,Familia
+1055,547,Notariado y registro
+1056,548,Infraestructura
+1057,548,Seguridad Social y salud
+1058,549,Justicia
+1059,549,Mujer
+1060,550,"Educación, cultura, ciencia y tecnología"
+1061,550,Derechos Fundamentales
+1062,551,Política Internacional
+1063,551,Laboral
+1064,552,Familia
+1065,552,Derechos Fundamentales
+1066,553,Tránsito y transporte
+1067,553,Economía
+1068,554,Economía
+1069,554,Ordenamiento Territorial
+1070,555,Derechos Fundamentales
+1071,555,Seguridad Social y salud
+1072,556,Seguridad Social y salud
+1073,556,Bienestar y pobreza
+1074,557,Tránsito y transporte
+1075,557,Administración pública
+1076,558,Seguridad Social y salud
+1077,558,Familia
+1078,559,Recreación y deporte
+1079,559,Economía
+1080,560,Agropecuario y agrícola
+1081,560,Familia
+1082,561,Economía
+1083,561,Minas y energía
+1084,562,Política Internacional
+1085,562,Economía
+1086,563,Implementación paz
+1087,563,Conflicto armado
+1088,564,"Celebraciones, honores y monumentos"
+1089,565,"Celebraciones, honores y monumentos"
+1090,566,Agropecuario y agrícola
+1091,566,Implementación paz
+1092,567,Medio Ambiente
+1093,567,"Comercio, industria y turismo"
+1094,568,Justicia
+1095,568,Conflicto armado
+1096,569,Minas y energía
+1097,569,Laboral
+1098,570,Recreación y deporte
+1099,570,Bienestar y pobreza
+1100,571,Justicia
+1101,571,Familia
+1102,572,"Educación, cultura, ciencia y tecnología"
+1103,572,Economía
+1104,573,Implementación paz
+1105,573,"Educación, cultura, ciencia y tecnología"
+1106,574,Implementación paz
+1107,574,Participación ciudadana
+1108,575,"Educación, cultura, ciencia y tecnología"
+1109,575,Familia
+1110,576,Participación ciudadana
+1111,576,Administración pública
+1112,577,"Comercio, industria y turismo"
+1113,577,Recreación y deporte
+1114,578,Agropecuario y agrícola
+1115,578,Economía
+1116,579,Rama Judicial
+1117,579,Justicia
+1118,580,Implementación paz
+1119,580,Agropecuario y agrícola
+1120,581,Seguridad Social y salud
+1121,581,Economía
+1122,582,Seguridad Social y salud
+1123,582,Bienestar y pobreza
+1124,583,Tránsito y transporte
+1125,583,Economía
+1126,584,Agropecuario y agrícola
+1127,584,Administración pública
+1128,585,Agropecuario y agrícola
+1129,585,Infraestructura
+1130,586,Medio Ambiente
+1131,586,Administración pública
+1132,587,Agropecuario y agrícola
+1133,587,Administración pública
+1134,588,Seguridad Social y salud
+1135,588,Bienestar y pobreza
+1136,589,Derechos Fundamentales
+1137,589,Medio Ambiente
+1138,590,Derechos Fundamentales
+1139,590,Laboral
+1140,591,Implementación paz
+1141,591,Administración pública
+1142,592,Bienestar y pobreza
+1143,592,Administración pública
+1144,593,Profesiones
+1145,593,Asuntos administrativos
+1146,594,Ordenamiento Territorial
+1147,594,Administración pública
+1148,595,Administración pública
+1149,595,Asuntos administrativos
+1150,596,"Educación, cultura, ciencia y tecnología"
+1151,596,Bienestar y pobreza
+1152,597,Infraestructura
+1153,597,Economía
+1154,598,Laboral
+1155,598,Derechos Fundamentales
+1156,599,Laboral
+1157,599,Administración pública
+1158,600,Partidos y movimientos
+1159,600,Organización Electoral y elecciones
+1160,601,Implementación paz
+1161,601,Derechos Fundamentales
+1162,602,Derechos Fundamentales
+1163,602,Agropecuario y agrícola
+1164,603,"Educación, cultura, ciencia y tecnología"
+1165,603,Economía
+1166,604,Agropecuario y agrícola
+1167,604,Administración pública
+1168,605,Seguridad Social y salud
+1169,605,Familia
+1170,606,"Seguridad, defensa y fuerza pública"
+1171,606,Participación ciudadana
+1172,607,"Comunicaciones, medios y tecnologías de la información"
+1173,607,Administración pública
+1174,608,Rama Ejecutiva
+1175,608,Administración pública
+1176,609,Justicia
+1177,609,Familia
+1178,610,Seguridad Social y salud
+1179,610,Bienestar y pobreza
+1180,611,Derechos Fundamentales
+1181,611,"Comunicaciones, medios y tecnologías de la información"
+1182,612,Rama Legislativa
+1183,612,Laboral
+1184,613,Notariado y registro
+1185,613,Familia
+1186,614,"Educación, cultura, ciencia y tecnología"
+1187,614,Bienestar y pobreza
+1188,615,"Educación, cultura, ciencia y tecnología"
+1189,615,Economía
+1190,616,Seguridad Social y salud
+1191,616,Derechos Fundamentales
+1192,617,Implementación paz
+1193,617,Participación ciudadana
+1194,618,Impuestos
+1195,618,Economía
+1196,619,"Celebraciones, honores y monumentos"
+1197,620,Bienestar y pobreza
+1198,620,Infraestructura
+1199,621,Rama Legislativa
+1200,621,Corrupción
+1201,622,"Celebraciones, honores y monumentos"
+1202,623,Economía
+1203,623,Administración pública
+1204,624,Ordenamiento Territorial
+1205,624,Administración pública
+1206,625,Estampillas
+1207,625,Infraestructura
