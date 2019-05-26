@@ -3,6 +3,15 @@ __________________
 ![](Imagenes/congreso_edificio_1.jpg)
 
 
+### Contacto: 
+Daniel Cifuentes Grueso 
+Politólogo - Universidad del Rosario 
+Candidato a Magister en Economía de las Políticas Públicas - Universidad del Rosario
+
+daniel.cifuentes@urosario.edu.co
+daniel.cifuentes77@gmail.com
+
+
 
 ## Descripción y Motivación 
 
