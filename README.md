@@ -18,8 +18,7 @@ daniel.cifuentes77@gmail.com
 ## Descripción y Motivación 
 
 El 20 de Julio de 2018 tomó posesión el vigente Congreso de la República de Colombia, quedando conformado por un total de 280 parlamentarios
-, divididos en 102 senadores y 166 representantes a la Cámara. Desde entonces, congresistas, bancadas y coaliciones han desarrollado 
-numerosos Proyectos de Ley en aras de cumplir su labor legislativa. 
+, divididos en 102 senadores y 166 representantes a la Cámara.
 
 Para conocer con mayor detalle  y poder analizar el desarrollo de la actividad legislativa vigente,  en este proyecto se extrajo la información 
 relevante de los 625 Proyectos de Ley presentados a la fecha por Senadores y Representantes del Congreso de la República.
@@ -146,5 +145,4 @@ así mismo, fue posible ver gráficamente el comportamiento de los partidos de a
 
 ![](Imagenes/Partidos_Proyectos_cámara_senado.JPG)
 
-![](Imagenes/Tema_Uribe_Petro.JPG)
 
